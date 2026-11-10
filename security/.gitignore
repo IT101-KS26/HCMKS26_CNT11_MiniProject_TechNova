@@ -1,0 +1,5 @@
+# Bo qua file bi mat - khai bao truoc commit dau tien
+.env
+.env.*
+# Van cho phep file mau (khong chua gia tri that)
+!.env.example
